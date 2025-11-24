@@ -18,7 +18,7 @@ A beautifully designed, fast, and responsive Weather Application that allows use
 
 ## 🔗 Live Project
 
-🌍 **Live Link:** []()
+🌍 **Live Link:** [https://dileep-kumawat.github.io/Weather-app-using-html-css-and-js/](https://dileep-kumawat.github.io/Weather-app-using-html-css-and-js/)
 
 ---
 
@@ -88,7 +88,7 @@ https://api.open-meteo.com/v1/forecast?latitude=51.5074&longitude=-0.1278&curren
 ## 📦 Installation (Local Setup)
 
 ```
-git clone 
+git clone https://github.com/Dileep-kumawat/Weather-app-using-html-css-and-js.git
 cd weather-app
 open index.html
 ```
